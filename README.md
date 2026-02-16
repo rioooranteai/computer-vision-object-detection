@@ -63,7 +63,6 @@ YOLO-computer-vision-object-detection/
 ├── Urdesk/                    # Workspace analysis tool
 ├── [Future Projects]/         # More projects to be added
 │
-├── requirements.txt
 └── README.md
 ```
 
